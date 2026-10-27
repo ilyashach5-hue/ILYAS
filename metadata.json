@@ -1,0 +1,6 @@
+{
+  "name": "BAGORA | حقائب ظهر فاخرة بالمغرب",
+  "description": "المتجر المغربي الأول للحقائب الفاخرة - تشكيلة راقية من حقائب الظهر لرجال الأعمال والطلاب والسفر مع الدفع عند الاستلام وتوصيل سريع لكافة المدن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
